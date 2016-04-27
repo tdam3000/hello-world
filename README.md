@@ -1,3 +1,3 @@
 # hello-world
 
-This is my first lesson of Github
+This is my first lesson on Github
